@@ -13,8 +13,8 @@ Kısa Bağlantı: https://bit.ly/32k9MnJ
 
 Github Adresimiz: https://github.com/bmdersleri
 
-Youtube Video Linki : 
+Youtube Video Linki : https://www.youtube.com/watch?v=Mfq0R04FAFY&t=476s
 
-Oyun Tanıtım Videosu Youtube Linki : 
+Oyun Tanıtım Videosu Youtube Linki : https://www.youtube.com/watch?v=lOnHQEYB_Fg
 
 Google Play Linki : https://play.google.com/store/apps/details?id=com.BurhanYucel.rocketup
